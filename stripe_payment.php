@@ -24,7 +24,7 @@
 		require_once('stripe-php/init.php');
 
 		$stripe = array(
-		"SecretKey"=>"sk_test_51PkoFIEuszaLU5xo5UZpB33YRfJXb0RzfmJbJ69sAJSg6Uu8eM6oTanw749ZLQ188QNlru10dHAEftXg3nk6DNzv00AQOP3PAu",
+		"SecretKey"=>"stripe secret",
 		"PublishableKey"=>"pk_test_51PkoFIEuszaLU5xo6NiJRIcJ8JJvDgG86EbDJMovJ7W58FxazLynOYzp3KlMddKTTf0DriAM9Qm9ppepwjQnWwjv00G71bCN9F"
 		);
 
